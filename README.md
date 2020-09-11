@@ -1,6 +1,6 @@
 ### Hello, I am Ally. I am a full stack software engineer
 
-<img src=https://simpleicons.org/icons/php.svg" height="32px" width="32px" />
+<img src=https://simpleicons.org/icons/php.svg" height="32px" width="32px" align="left" alt="PHP" />
 
 ![mascot](https://raw.githubusercontent.com/alistaircol/alistaircol/master/assets/img/ally.png)
 
