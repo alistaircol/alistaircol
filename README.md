@@ -1,8 +1,6 @@
 ### Hello, I am a full stack software engineer
 
-You can find out more about me [here](https://ac93.uk)
-
-![website-shield](https://img.shields.io/website?url=http%3A%2F%2Fac93.uk)
+You can find out more about me at my [![website-shield](https://img.shields.io/website?url=http%3A%2F%2Fac93.uk)](https://ac93.uk)
 
 ### Stuff I found worthwhile writing about
 
