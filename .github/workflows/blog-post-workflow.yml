@@ -13,3 +13,5 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://ac93.uk/articles/index.xml"
+          committer_username: alistaircol
+          committer_email: {{ secrets.COMMITTER_EMAIL }}
