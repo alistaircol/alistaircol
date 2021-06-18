@@ -7,11 +7,11 @@ You can find out more about me at my website.
 ### Stuff I found worthwhile writing about
 
 <!-- BLOG-POST-LIST:START -->
+- [Laravel post migration event listener](https://ac93.uk/articles/laravel-post-migration-event-listener/)
 - [Making filled triangle SVG with CSS](https://ac93.uk/articles/filled-svg-css-chevrons/)
 - [Connecting to a remote server with mc](https://ac93.uk/articles/mc-remote-server-cli-ni/)
 - [MySQL query logging on Mac](https://ac93.uk/articles/mysql-query-logging-on-mac/)
 - [Creating a fresh Laravel installation with Docker](https://ac93.uk/articles/make-a-new-laravel-development-repo-with-docker/)
-- [Using Xdebug with Laravel Valet](https://ac93.uk/articles/valet-xdebug/)
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
