@@ -15,3 +15,5 @@ You can find out more about me at my website.
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
+
+![skills](https://static.ac93.uk/resume/skills.png)
