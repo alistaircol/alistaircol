@@ -6,9 +6,14 @@
 * I'm also very interested in DevOps and automation.
 * I am always keen to learn and sometimes write about my journey in learning something new.
 
-### Stuff I found worthwhile writing about
+### [Website](https://ac93.uk)
 
 [![website-shield](https://img.shields.io/website?url=http%3A%2F%2Fac93.uk)](https://ac93.uk)
+
+I maintain a small technical blog (which is moslty just a dumping ground, and some instructions for when I pick something new to research).
+
+Some stuff I found worthwhile writing about:
+
 
 <!-- BLOG-POST-LIST:START -->
 - [Building and hosting a full CI &amp; CD containerised Laravel application](https://ac93.uk/articles/building-and-hosting-a-full-ci-cd-containerised-laravel-application/)
@@ -20,7 +25,7 @@
 
 You can read more of my articles [here](https://ac93.uk/articles)
 
-### Skills
+### [Skills](https://github.com/alistaircol/skills)
 
 I have exposure and experience with the following concepts, methodologies, technologies, and frameworks:
 
