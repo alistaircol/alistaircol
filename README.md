@@ -16,11 +16,11 @@ Some stuff I found worthwhile writing about:
 
 
 <!-- BLOG-POST-LIST:START -->
+- [Using whiptail to show the active git branch for a set of git repositories](https://ac93.uk/articles/whiptail-list-git-repositories-branches-and-jump-to-tmux-window/)
 - [Tailwind CSS Breakpoints in Google Chrome Device Toolbar](https://ac93.uk/articles/tailwind-breakpoint-google-chrome-devices/)
 - [Building and hosting a full CI &amp; CD containerised Laravel application](https://ac93.uk/articles/building-and-hosting-a-full-ci-cd-containerised-laravel-application/)
 - [Building an image for static site generator output](https://ac93.uk/articles/building-static-site-generator-image/)
 - [Quckie: git - copy a file from another branch without switching branch](https://ac93.uk/articles/git-copy-file-from-another-branch-without-checkout/)
-- [Laravel post migration event listener](https://ac93.uk/articles/laravel-post-migration-event-listener/)
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
