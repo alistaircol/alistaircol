@@ -35,4 +35,4 @@ You can read more of my articles [here](https://ac93.uk/articles)
 
 I have exposure and experience with the following concepts, methodologies, technologies, and frameworks ([notes on generation](https://github.com/alistaircol/skills)):
 
-![skills](https://static.ac93.uk/resume/skills.png)]
+![skills](https://static.ac93.uk/resume/skills.png)
