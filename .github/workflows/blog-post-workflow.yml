@@ -17,7 +17,4 @@ jobs:
         committer_username: alistaircol
         committer_email: ${{ secrets.COMMITTER_EMAIL }}
         categories_template: "[`$category`](https://ac93.uk/tags/$category)"
-        template: |-
-          [$title]($url)
-          - $description
-          - $categories
+        template: "[$title]($url) $description $categories"
