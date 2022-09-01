@@ -21,27 +21,27 @@ Some stuff I found worthwhile writing about:
   
 
  [Consume raw SQS messages from another application with Laravel&#39;s queue](https://ac93.uk/articles/laravel-consume-raw-sqs-messages-in-its-job-queue-system/) 
- > Easily consume arbitrary raw AWS SQS messages by another application in your Laravel application’s queue with a  and  configuration. 
+ > Easily consume arbitrary raw AWS SQS messages by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration. 
   
 
  [Setting up CI to build and release multiple sets of documentation for a project](https://ac93.uk/articles/github-action-build-multiple-sets-of-documentation/) 
- > Learn how to set up GitHub action to build documentation &lpar;PHP, OpenAPI&rpar; from multiple generators and consolidate them all into a single  branch 
+ > Learn how to set up GitHub action to build documentation &lpar;PHP, OpenAPI&rpar; from multiple generators and consolidate them all into a single gh-pages branch 
   
 
  [Headless screenshot of a chart in Laravel with Browsershot and S3 upload](https://ac93.uk/articles/laravel-chartjs-blade-browsershot/) 
- > Generate and save a  chart in Laravel with Browsershot and upload it to S3 
+ > Generate and save a Chart.js chart in Laravel with Browsershot and upload it to S3 
   
 
  [Laravel pipeline to replace CMS content placeholders with values](https://ac93.uk/articles/laravel-pipeline-placeholder-cms-accessor/) 
- > Use Laravel  with many s to replace arbitrary placeholders in DOM with computed values using a ’s accessor 
+ > Use Laravel Pipeline with many Pipes to replace arbitrary placeholders in DOM with computed values using a Model&amp;rsquo;s accessor 
   
 
  [A Laravel middleware to optimise images with imgproxy on arbitrary markup](https://ac93.uk/articles/laravel-response-middleware-optimise-images-with-imgproxy/) 
- > Laravel middleware to parse the response DOM and update ’s  to be routed through . 
+ > Laravel middleware to parse the response DOM and update img&amp;rsquo;s src to be routed through imgproxy. 
   
 
  [Using whiptail to show the active git branch for a set of git repositories](https://ac93.uk/articles/whiptail-list-git-repositories-branches-and-jump-to-tmux-window/) 
- > List the active  for a set of  repositories in , then jump to the repository’s  window 
+ > List the active git branch for a set of git repositories in whiptail, then jump to the repository&amp;rsquo;s tmux window 
   
 <!-- BLOG-POST-LIST:END -->
 
