@@ -25,49 +25,49 @@ Some stuff I found worthwhile writing about:
 [Send WhatsApp messages in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/)
 > Send a message template containing emoji from Twilio in Laravel
 
-[`laravel`](https://ac93.uk/tags/laravel) &nbsp;[`whatsapp`](https://ac93.uk/tags/whatsapp) &nbsp;[`twilio`](https://ac93.uk/tags/twilio) &nbsp;
+<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`whatsapp`](https://ac93.uk/tags/whatsapp)</sup>&nbsp;<sup>[`twilio`](https://ac93.uk/tags/twilio)</sup>&nbsp;
 
 ---
 
 [Consume raw SQS messages from another application with Laravel&#39;s queue](https://ac93.uk/articles/laravel-consume-raw-sqs-messages-in-its-job-queue-system/)
 > Easily consume arbitrary raw AWS SQS messages by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration.
 
-[`laravel`](https://ac93.uk/tags/laravel) &nbsp;[`aws`](https://ac93.uk/tags/aws) &nbsp;[`sqs`](https://ac93.uk/tags/sqs) &nbsp;
+<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`aws`](https://ac93.uk/tags/aws)</sup>&nbsp;<sup>[`sqs`](https://ac93.uk/tags/sqs)</sup>&nbsp;
 
 ---
 
 [Setting up CI to build and release multiple sets of documentation for a project](https://ac93.uk/articles/github-action-build-multiple-sets-of-documentation/)
 > Learn how to set up GitHub action to build documentation &lpar;PHP, OpenAPI&rpar; from multiple generators and consolidate them all into a single gh-pages branch
 
-[`github`](https://ac93.uk/tags/github) &nbsp;[`php`](https://ac93.uk/tags/php) &nbsp;[`openapi`](https://ac93.uk/tags/openapi) &nbsp;[`apigen`](https://ac93.uk/tags/apigen) &nbsp;[`doctum`](https://ac93.uk/tags/doctum) &nbsp;[`doxygen`](https://ac93.uk/tags/doxygen) &nbsp;[`phpdoc`](https://ac93.uk/tags/phpdoc) &nbsp;[`taskfile`](https://ac93.uk/tags/taskfile) &nbsp;
+<sup>[`github`](https://ac93.uk/tags/github)</sup>&nbsp;<sup>[`php`](https://ac93.uk/tags/php)</sup>&nbsp;<sup>[`openapi`](https://ac93.uk/tags/openapi)</sup>&nbsp;<sup>[`apigen`](https://ac93.uk/tags/apigen)</sup>&nbsp;<sup>[`doctum`](https://ac93.uk/tags/doctum)</sup>&nbsp;<sup>[`doxygen`](https://ac93.uk/tags/doxygen)</sup>&nbsp;<sup>[`phpdoc`](https://ac93.uk/tags/phpdoc)</sup>&nbsp;<sup>[`taskfile`](https://ac93.uk/tags/taskfile)</sup>&nbsp;
 
 ---
 
 [Headless screenshot of a chart in Laravel with Browsershot and S3 upload](https://ac93.uk/articles/laravel-chartjs-blade-browsershot/)
 > Generate and save a Chart.js chart in Laravel with Browsershot and upload it to S3
 
-[`laravel`](https://ac93.uk/tags/laravel) &nbsp;[`chartjs`](https://ac93.uk/tags/chartjs) &nbsp;[`browsershot`](https://ac93.uk/tags/browsershot) &nbsp;
+<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`chartjs`](https://ac93.uk/tags/chartjs)</sup>&nbsp;<sup>[`browsershot`](https://ac93.uk/tags/browsershot)</sup>&nbsp;
 
 ---
 
 [Laravel pipeline to replace CMS content placeholders with values](https://ac93.uk/articles/laravel-pipeline-placeholder-cms-accessor/)
 > Use Laravel Pipeline with many Pipes to replace arbitrary placeholders in DOM with computed values using a Model&amp;rsquo;s accessor
 
-[`laravel`](https://ac93.uk/tags/laravel) &nbsp;[`pipeline`](https://ac93.uk/tags/pipeline) &nbsp;
+<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`pipeline`](https://ac93.uk/tags/pipeline)</sup>&nbsp;
 
 ---
 
 [A Laravel middleware to optimise images with imgproxy on arbitrary markup](https://ac93.uk/articles/laravel-response-middleware-optimise-images-with-imgproxy/)
 > Laravel middleware to parse the response DOM and update img&amp;rsquo;s src to be routed through imgproxy.
 
-[`laravel`](https://ac93.uk/tags/laravel) &nbsp;[`imgproxy`](https://ac93.uk/tags/imgproxy) &nbsp;
+<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`imgproxy`](https://ac93.uk/tags/imgproxy)</sup>&nbsp;
 
 ---
 
 [Using whiptail to show the active git branch for a set of git repositories](https://ac93.uk/articles/whiptail-list-git-repositories-branches-and-jump-to-tmux-window/)
 > List the active git branch for a set of git repositories in whiptail, then jump to the repository&amp;rsquo;s tmux window
 
-[`git`](https://ac93.uk/tags/git) &nbsp;[`tmux`](https://ac93.uk/tags/tmux) &nbsp;[`whiptail`](https://ac93.uk/tags/whiptail) &nbsp;
+<sup>[`git`](https://ac93.uk/tags/git)</sup>&nbsp;<sup>[`tmux`](https://ac93.uk/tags/tmux)</sup>&nbsp;<sup>[`whiptail`](https://ac93.uk/tags/whiptail)</sup>&nbsp;
 
 ---
 <!-- BLOG-POST-LIST:END -->
