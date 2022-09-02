@@ -63,13 +63,6 @@ Some stuff I found worthwhile writing about:
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`imgproxy`](https://ac93.uk/tags/imgproxy)</sup>&nbsp;
 
 ---
-
-[Using whiptail to show the active git branch for a set of git repositories](https://ac93.uk/articles/whiptail-list-git-repositories-branches-and-jump-to-tmux-window/)
-> List the active git branch for a set of git repositories in whiptail, then jump to the repository&amp;rsquo;s tmux window
-
-<sup>[`git`](https://ac93.uk/tags/git)</sup>&nbsp;<sup>[`tmux`](https://ac93.uk/tags/tmux)</sup>&nbsp;<sup>[`whiptail`](https://ac93.uk/tags/whiptail)</sup>&nbsp;
-
----
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
