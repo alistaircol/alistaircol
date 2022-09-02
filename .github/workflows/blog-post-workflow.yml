@@ -18,4 +18,4 @@ jobs:
         committer_email: ${{ secrets.COMMITTER_EMAIL }}
         categories_template: "[`$category`](https://ac93.uk/tags/$category) &nbsp;"
         template: >-
-          $newline [$title]($url) $newline > $description $newline $newline $categories $newline --- $newline
+          $newline [$title]($url) $newline > $description $newline $newline $categories $newline $newline --- $newline
