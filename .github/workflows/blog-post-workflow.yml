@@ -16,6 +16,6 @@ jobs:
         max_post_count: 7
         committer_username: alistaircol
         committer_email: ${{ secrets.COMMITTER_EMAIL }}
-        categories_template: "[`$category`](https://ac93.uk/tags/$category) &nbsp;&nbsp;"
+        categories_template: "[`$category`](https://ac93.uk/tags/$category) &nbsp;"
         template: >-
-          $newline [$title]($url) $newline > $description $newline - $categories $newline
+          $newline [$title]($url) $newline > $description $newline $categories $newline --- $newline
