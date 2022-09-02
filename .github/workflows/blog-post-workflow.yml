@@ -13,7 +13,7 @@ jobs:
     - uses: gautamkrishnar/blog-post-workflow@master
       with:
         feed_list: "https://ac93.uk/articles/index.xml"
-        max_post_count: 7
+        max_post_count: 6
         committer_username: alistaircol
         committer_email: ${{ secrets.COMMITTER_EMAIL }}
         categories_template: "<sup>[`$category`](https://ac93.uk/tags/$category)</sup>&nbsp;"
