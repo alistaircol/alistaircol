@@ -18,31 +18,31 @@ Some stuff I found worthwhile writing about:
 <!-- BLOG-POST-LIST:START -->
  [Send WhatsApp messages in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/) 
  > Send a message template containing emoji from Twilio in Laravel 
- - [`laravel`](https://ac93.uk/tags/laravel)[`whatsapp`](https://ac93.uk/tags/whatsapp)[`twilio`](https://ac93.uk/tags/twilio) 
+ - [`laravel`](https://ac93.uk/tags/laravel) &nbsp;&nbsp;[`whatsapp`](https://ac93.uk/tags/whatsapp) &nbsp;&nbsp;[`twilio`](https://ac93.uk/tags/twilio) &nbsp;&nbsp; 
 
  [Consume raw SQS messages from another application with Laravel&#39;s queue](https://ac93.uk/articles/laravel-consume-raw-sqs-messages-in-its-job-queue-system/) 
  > Easily consume arbitrary raw AWS SQS messages by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration. 
- - [`laravel`](https://ac93.uk/tags/laravel)[`aws`](https://ac93.uk/tags/aws)[`sqs`](https://ac93.uk/tags/sqs) 
+ - [`laravel`](https://ac93.uk/tags/laravel) &nbsp;&nbsp;[`aws`](https://ac93.uk/tags/aws) &nbsp;&nbsp;[`sqs`](https://ac93.uk/tags/sqs) &nbsp;&nbsp; 
 
  [Setting up CI to build and release multiple sets of documentation for a project](https://ac93.uk/articles/github-action-build-multiple-sets-of-documentation/) 
  > Learn how to set up GitHub action to build documentation &lpar;PHP, OpenAPI&rpar; from multiple generators and consolidate them all into a single gh-pages branch 
- - [`github`](https://ac93.uk/tags/github)[`php`](https://ac93.uk/tags/php)[`openapi`](https://ac93.uk/tags/openapi)[`apigen`](https://ac93.uk/tags/apigen)[`doctum`](https://ac93.uk/tags/doctum)[`doxygen`](https://ac93.uk/tags/doxygen)[`phpdoc`](https://ac93.uk/tags/phpdoc)[`taskfile`](https://ac93.uk/tags/taskfile) 
+ - [`github`](https://ac93.uk/tags/github) &nbsp;&nbsp;[`php`](https://ac93.uk/tags/php) &nbsp;&nbsp;[`openapi`](https://ac93.uk/tags/openapi) &nbsp;&nbsp;[`apigen`](https://ac93.uk/tags/apigen) &nbsp;&nbsp;[`doctum`](https://ac93.uk/tags/doctum) &nbsp;&nbsp;[`doxygen`](https://ac93.uk/tags/doxygen) &nbsp;&nbsp;[`phpdoc`](https://ac93.uk/tags/phpdoc) &nbsp;&nbsp;[`taskfile`](https://ac93.uk/tags/taskfile) &nbsp;&nbsp; 
 
  [Headless screenshot of a chart in Laravel with Browsershot and S3 upload](https://ac93.uk/articles/laravel-chartjs-blade-browsershot/) 
  > Generate and save a Chart.js chart in Laravel with Browsershot and upload it to S3 
- - [`laravel`](https://ac93.uk/tags/laravel)[`chartjs`](https://ac93.uk/tags/chartjs)[`browsershot`](https://ac93.uk/tags/browsershot) 
+ - [`laravel`](https://ac93.uk/tags/laravel) &nbsp;&nbsp;[`chartjs`](https://ac93.uk/tags/chartjs) &nbsp;&nbsp;[`browsershot`](https://ac93.uk/tags/browsershot) &nbsp;&nbsp; 
 
  [Laravel pipeline to replace CMS content placeholders with values](https://ac93.uk/articles/laravel-pipeline-placeholder-cms-accessor/) 
  > Use Laravel Pipeline with many Pipes to replace arbitrary placeholders in DOM with computed values using a Model&amp;rsquo;s accessor 
- - [`laravel`](https://ac93.uk/tags/laravel)[`pipeline`](https://ac93.uk/tags/pipeline) 
+ - [`laravel`](https://ac93.uk/tags/laravel) &nbsp;&nbsp;[`pipeline`](https://ac93.uk/tags/pipeline) &nbsp;&nbsp; 
 
  [A Laravel middleware to optimise images with imgproxy on arbitrary markup](https://ac93.uk/articles/laravel-response-middleware-optimise-images-with-imgproxy/) 
  > Laravel middleware to parse the response DOM and update img&amp;rsquo;s src to be routed through imgproxy. 
- - [`laravel`](https://ac93.uk/tags/laravel)[`imgproxy`](https://ac93.uk/tags/imgproxy) 
+ - [`laravel`](https://ac93.uk/tags/laravel) &nbsp;&nbsp;[`imgproxy`](https://ac93.uk/tags/imgproxy) &nbsp;&nbsp; 
 
  [Using whiptail to show the active git branch for a set of git repositories](https://ac93.uk/articles/whiptail-list-git-repositories-branches-and-jump-to-tmux-window/) 
  > List the active git branch for a set of git repositories in whiptail, then jump to the repository&amp;rsquo;s tmux window 
- - [`git`](https://ac93.uk/tags/git)[`tmux`](https://ac93.uk/tags/tmux)[`whiptail`](https://ac93.uk/tags/whiptail) 
+ - [`git`](https://ac93.uk/tags/git) &nbsp;&nbsp;[`tmux`](https://ac93.uk/tags/tmux) &nbsp;&nbsp;[`whiptail`](https://ac93.uk/tags/whiptail) &nbsp;&nbsp; 
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
