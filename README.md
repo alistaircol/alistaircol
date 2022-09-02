@@ -8,12 +8,9 @@
 
 <p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alistaircol&count_private=true&show_icons=true&hide=issues,contribs,prs&custom_title=Ally+on+GitHub&disable_animations=true&title_color=58a6ff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=30363D" /></p>
 
-[![website-shield](https://img.shields.io/website?url=http%3A%2F%2Fac93.uk)](https://ac93.uk)
-
-I maintain a small [technical blog](https://ac93.uk) (which is moslty just a dumping ground, and some instructions for when I pick something new to research).
+I maintain a small [technical blog](https://ac93.uk) (which is mostly just a dumping ground of some instructions for when I research something new).
 
 Some stuff I found worthwhile writing about:
-
 
 <!-- BLOG-POST-LIST:START -->
  [Send WhatsApp messages in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/) 
