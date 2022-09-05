@@ -24,33 +24,33 @@ You can see the repository for rationale and [notes on generation](https://githu
 ### Recently
 
 <!-- BLOG-POST-LIST:START -->
-[Create a GitHub workflow to run linters, tests, and generate coverage report](https://ac93.uk/articles/laravel-github-workflow-lint-run-unit-and-feature-tests-and-generate-code-coverage-report/)
-> Create and configure a GitHub workflow to run linters &lpar;e.g. phplint, phpcs&rpar;, run unit and feature tests &lpar;e.g. php artisan test&rpar;, and finally generate a code coverage report or some other artifact.
+[Create a GitHub workflow to run PHP linters, tests, and generate coverage report](https://ac93.uk/articles/laravel-github-workflow-lint-run-unit-and-feature-tests-and-generate-code-coverage-report/)
+> Create and configure a GitHub workflow to run PHP QA tools &lpar;e.g. phplint, phpcs&rpar;, and then run unit and feature tests &lpar;e.g. php artisan test, phpunit&rpar;, and finally generate a code coverage report or some other artifact.
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`github`](https://ac93.uk/tags/github)</sup>&nbsp;<sup>[`phpunit`](https://ac93.uk/tags/phpunit)</sup>&nbsp;
 
 [Send a templated WhatsApp message through Twilio in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/)
-> Send a message template containing emoji from Twilio in Laravel
+> Send a message template containing emoji from Twilio in Laravel.
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`whatsapp`](https://ac93.uk/tags/whatsapp)</sup>&nbsp;<sup>[`twilio`](https://ac93.uk/tags/twilio)</sup>&nbsp;
 
 [Consume raw SQS messages from another application with Laravel&#39;s queue](https://ac93.uk/articles/laravel-consume-raw-sqs-messages-in-its-job-queue-system/)
-> Easily consume arbitrary raw AWS SQS messages by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration.
+> Easily consume arbitrary raw AWS SQS messages produced by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration.
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`aws`](https://ac93.uk/tags/aws)</sup>&nbsp;<sup>[`sqs`](https://ac93.uk/tags/sqs)</sup>&nbsp;
 
-[Setting up CI to build and release multiple sets of documentation for a project](https://ac93.uk/articles/github-action-build-multiple-sets-of-documentation/)
-> Learn how to set up GitHub action to build documentation &lpar;PHP, OpenAPI&rpar; from multiple generators and consolidate them all into a single gh-pages branch
+[Setting up CI to build and release multiple sets of documentation from an OpenAPI spec](https://ac93.uk/articles/github-action-build-multiple-sets-of-documentation/)
+> Learn how to set up a GitHub workflow to build documentation for a generated PHP SDK from multiple generators, and consolidate them all into a single gh-pages branch.
 
 <sup>[`github`](https://ac93.uk/tags/github)</sup>&nbsp;<sup>[`php`](https://ac93.uk/tags/php)</sup>&nbsp;<sup>[`openapi`](https://ac93.uk/tags/openapi)</sup>&nbsp;<sup>[`apigen`](https://ac93.uk/tags/apigen)</sup>&nbsp;<sup>[`doctum`](https://ac93.uk/tags/doctum)</sup>&nbsp;<sup>[`doxygen`](https://ac93.uk/tags/doxygen)</sup>&nbsp;<sup>[`phpdoc`](https://ac93.uk/tags/phpdoc)</sup>&nbsp;<sup>[`taskfile`](https://ac93.uk/tags/taskfile)</sup>&nbsp;
 
 [Headless screenshot of a chart in Laravel with Browsershot and S3 upload](https://ac93.uk/articles/laravel-chartjs-blade-browsershot/)
-> Generate and save a Chart.js chart in Laravel with Browsershot and upload it to S3
+> Generate and save a blade component containing a Chart.js chart in Laravel &lpar;without controller bloat&rpar; using Browsershot, and then upload it to S3.
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`chartjs`](https://ac93.uk/tags/chartjs)</sup>&nbsp;<sup>[`browsershot`](https://ac93.uk/tags/browsershot)</sup>&nbsp;
 
-[Laravel pipeline to replace CMS content placeholders with values](https://ac93.uk/articles/laravel-pipeline-placeholder-cms-accessor/)
-> Use Laravel Pipeline with many Pipes to replace arbitrary placeholders in DOM with computed values using a Model&amp;rsquo;s accessor
+[Using Laravel&#39;s pipeline to replace CMS content placeholders with values](https://ac93.uk/articles/laravel-pipeline-placeholder-cms-accessor/)
+> Use the Laravel Pipeline component with many Pipes to replace arbitrary placeholders in DOM with computed values using a Model&amp;rsquo;s accessor
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`pipeline`](https://ac93.uk/tags/pipeline)</sup>&nbsp;
 <!-- BLOG-POST-LIST:END -->
