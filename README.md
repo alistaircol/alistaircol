@@ -24,7 +24,12 @@ You can see the repository for rationale and [notes on generation](https://githu
 ### Recently
 
 <!-- BLOG-POST-LIST:START -->
-[Send WhatsApp messages in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/)
+[Create a GitHub workflow to run linters, tests, and generate coverage report](https://ac93.uk/articles/laravel-github-workflow-lint-run-unit-and-feature-tests-and-generate-code-coverage-report/)
+> Create and configure a GitHub workflow to run linters &lpar;e.g. phplint, phpcs&rpar;, run unit and feature tests &lpar;e.g. php artisan test&rpar;, and finally generate a code coverage report or some other artifact.
+
+<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`github`](https://ac93.uk/tags/github)</sup>&nbsp;<sup>[`phpunit`](https://ac93.uk/tags/phpunit)</sup>&nbsp;
+
+[Send a templated WhatsApp message through Twilio in Laravel](https://ac93.uk/articles/laravel-send-whatsapp-message-with-emoji-and-variables/)
 > Send a message template containing emoji from Twilio in Laravel
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`whatsapp`](https://ac93.uk/tags/whatsapp)</sup>&nbsp;<sup>[`twilio`](https://ac93.uk/tags/twilio)</sup>&nbsp;
@@ -48,11 +53,6 @@ You can see the repository for rationale and [notes on generation](https://githu
 > Use Laravel Pipeline with many Pipes to replace arbitrary placeholders in DOM with computed values using a Model&amp;rsquo;s accessor
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`pipeline`](https://ac93.uk/tags/pipeline)</sup>&nbsp;
-
-[A Laravel middleware to optimise images with imgproxy on arbitrary markup](https://ac93.uk/articles/laravel-response-middleware-optimise-images-with-imgproxy/)
-> Laravel middleware to parse the response DOM and update img&amp;rsquo;s src to be routed through imgproxy.
-
-<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`imgproxy`](https://ac93.uk/tags/imgproxy)</sup>&nbsp;
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
