@@ -24,6 +24,11 @@ You can see the repository for rationale and [notes on generation](https://githu
 ### Recently
 
 <!-- BLOG-POST-LIST:START -->
+[Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
+> Learn how to add asynchronous search to a hugo blog with alpine and fuse
+
+<sup>[`hugo`](https://ac93.uk/tags/hugo)</sup>&nbsp;<sup>[`alpine`](https://ac93.uk/tags/alpine)</sup>&nbsp;<sup>[`fuse`](https://ac93.uk/tags/fuse)</sup>&nbsp;
+
 [Create a GitHub workflow to run PHP linters, tests, and generate coverage report](https://ac93.uk/articles/laravel-github-workflow-lint-run-unit-and-feature-tests-and-generate-code-coverage-report/)
 > Create and configure a GitHub workflow to run PHP QA tools &lpar;e.g. phplint, phpcs&rpar;, and then run unit and feature tests &lpar;e.g. php artisan test, phpunit&rpar;, and finally generate a code coverage report or some other artifact.
 
@@ -48,11 +53,6 @@ You can see the repository for rationale and [notes on generation](https://githu
 > Generate and save a blade component containing a Chart.js chart in Laravel &lpar;without controller bloat&rpar; using Browsershot, and then upload it to S3.
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`chartjs`](https://ac93.uk/tags/chartjs)</sup>&nbsp;<sup>[`browsershot`](https://ac93.uk/tags/browsershot)</sup>&nbsp;
-
-[Using Laravel&#39;s pipeline to replace CMS content placeholders with values](https://ac93.uk/articles/laravel-pipeline-placeholder-cms-accessor/)
-> Use the Laravel Pipeline component with many Pipes to replace arbitrary placeholders in DOM with computed values using a Model&amp;rsquo;s accessor
-
-<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`pipeline`](https://ac93.uk/tags/pipeline)</sup>&nbsp;
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
