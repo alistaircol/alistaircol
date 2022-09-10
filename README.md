@@ -25,7 +25,7 @@ You can see the repository for rationale and [notes on generation](https://githu
 
 <!-- BLOG-POST-LIST:START -->
 [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
-> Learn how to add asynchronous search to a hugo blog with alpine and fuse
+> Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
 
 <sup>[`hugo`](https://ac93.uk/tags/hugo)</sup>&nbsp;<sup>[`alpine`](https://ac93.uk/tags/alpine)</sup>&nbsp;<sup>[`fuse`](https://ac93.uk/tags/fuse)</sup>&nbsp;
 
