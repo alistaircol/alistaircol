@@ -24,6 +24,11 @@ You can see the repository for rationale and [notes on generation](https://githu
 ### Recently
 
 <!-- BLOG-POST-LIST:START -->
+[Basic Cognito user pool with login/logout integration in Laravel, with users/system clients](https://ac93.uk/articles/laravel-integration-with-amazon-cognito/)
+> A relatively basic Laravel integration with an Amazon Cognito user pool with two clients. The first client for web users will be used to initiate &lpar;from Laravel&rpar; login/logout on Cognito&amp;rsquo;s hosted UI with email/password. The second client will be for system users, which will generate tokens with email/password through API instead of hosted UI. Finally, a simple console command to decode/verify web and system users&amp;rsquo; JTWs from the user pool&amp;rsquo;s JWKS.
+
+<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`cognito`](https://ac93.uk/tags/cognito)</sup>&nbsp;<sup>[`terraform`](https://ac93.uk/tags/terraform)</sup>&nbsp;
+
 [Adding asynchronous search to a hugo blog](https://ac93.uk/articles/adding-async-search-to-hugo-project-with-alpine-and-fuse/)
 > Learn how to add asynchronous search to a hugo blog with alpine.js and fuse.
 
@@ -48,11 +53,6 @@ You can see the repository for rationale and [notes on generation](https://githu
 > Learn how to set up a GitHub workflow to build documentation for a generated PHP SDK from multiple generators, and consolidate them all into a single gh-pages branch.
 
 <sup>[`github`](https://ac93.uk/tags/github)</sup>&nbsp;<sup>[`php`](https://ac93.uk/tags/php)</sup>&nbsp;<sup>[`openapi`](https://ac93.uk/tags/openapi)</sup>&nbsp;<sup>[`apigen`](https://ac93.uk/tags/apigen)</sup>&nbsp;<sup>[`doctum`](https://ac93.uk/tags/doctum)</sup>&nbsp;<sup>[`doxygen`](https://ac93.uk/tags/doxygen)</sup>&nbsp;<sup>[`phpdoc`](https://ac93.uk/tags/phpdoc)</sup>&nbsp;<sup>[`taskfile`](https://ac93.uk/tags/taskfile)</sup>&nbsp;
-
-[Headless screenshot of a chart in Laravel with Browsershot and S3 upload](https://ac93.uk/articles/laravel-chartjs-blade-browsershot/)
-> Generate and save a blade component containing a Chart.js chart in Laravel &lpar;without controller bloat&rpar; using Browsershot, and then upload it to S3.
-
-<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`chartjs`](https://ac93.uk/tags/chartjs)</sup>&nbsp;<sup>[`browsershot`](https://ac93.uk/tags/browsershot)</sup>&nbsp;
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
