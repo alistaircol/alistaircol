@@ -24,6 +24,11 @@ You can see the repository for rationale and [notes on generation](https://githu
 ### Recently
 
 <!-- BLOG-POST-LIST:START -->
+[Use git feature to &#39;hide&#39; local changes of a Dockerfile which installs xdebug](https://ac93.uk/articles/git-update-index-assume-unchanged-dockerfile-for-xdebug/)
+> Use git update-index --assume-unchanged to remove local changes of a Dockerfile from the staging area in a repository, and use &lpar;an ignored&rpar; docker-compose.override.yml to configure xdebug.
+
+<sup>[`docker`](https://ac93.uk/tags/docker)</sup>&nbsp;<sup>[`xdebug`](https://ac93.uk/tags/xdebug)</sup>&nbsp;<sup>[`git`](https://ac93.uk/tags/git)</sup>&nbsp;
+
 [Basic Cognito user pool with login/logout integration in Laravel, with users/system clients](https://ac93.uk/articles/laravel-integration-with-amazon-cognito/)
 > A relatively basic Laravel integration with an Amazon Cognito user pool with two clients. The first client for web users will be used to initiate &lpar;from Laravel&rpar; login/logout on Cognito&amp;rsquo;s hosted UI with email/password. The second client will be for system users, which will generate tokens with email/password through API instead of hosted UI. Finally, a simple console command to decode/verify web and system users&amp;rsquo; JTWs from the user pool&amp;rsquo;s JWKS.
 
@@ -48,11 +53,6 @@ You can see the repository for rationale and [notes on generation](https://githu
 > Easily consume arbitrary raw AWS SQS messages produced by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration.
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`aws`](https://ac93.uk/tags/aws)</sup>&nbsp;<sup>[`sqs`](https://ac93.uk/tags/sqs)</sup>&nbsp;
-
-[Setting up CI to build and release multiple sets of documentation from an OpenAPI spec](https://ac93.uk/articles/github-action-build-multiple-sets-of-documentation/)
-> Learn how to set up a GitHub workflow to build documentation for a generated PHP SDK from multiple generators, and consolidate them all into a single gh-pages branch.
-
-<sup>[`github`](https://ac93.uk/tags/github)</sup>&nbsp;<sup>[`php`](https://ac93.uk/tags/php)</sup>&nbsp;<sup>[`openapi`](https://ac93.uk/tags/openapi)</sup>&nbsp;<sup>[`apigen`](https://ac93.uk/tags/apigen)</sup>&nbsp;<sup>[`doctum`](https://ac93.uk/tags/doctum)</sup>&nbsp;<sup>[`doxygen`](https://ac93.uk/tags/doxygen)</sup>&nbsp;<sup>[`phpdoc`](https://ac93.uk/tags/phpdoc)</sup>&nbsp;<sup>[`taskfile`](https://ac93.uk/tags/taskfile)</sup>&nbsp;
 <!-- BLOG-POST-LIST:END -->
 
 You can read more of my articles [here](https://ac93.uk/articles)
