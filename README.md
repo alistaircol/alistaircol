@@ -9,7 +9,7 @@
   * Comfortable with `docker`, `terraform` and `ansible`.
 * I am always keen to learn, sometimes I write about my journey in learning new things. You can see recent posts below or everything at my [technical blog](https://ac93.uk).
 
-<p align="center"><img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alistaircol&count_private=true&show_icons=true&hide=issues,contribs,prs&custom_title=Ally+on+GitHub&disable_animations=true&title_color=58a6ff&icon_color=ffffff&text_color=ffffff&bg_color=0D1117&border_color=30363D" /></p>
+<p align="center"><img alt="GitHub Stats" src="https://static.ac93.uk/github-readme-stats.svg" /></p>
 
 ### Overview
 
