@@ -9,7 +9,11 @@ I specialise in server-side development. I like cloud native tech and to automat
   * Comfortable with `docker`, `terraform` and `ansible`.
 * I am always keen to learn, sometimes I write about my journey in learning new things. You can see recent posts below or everything at my [technical blog](https://ac93.uk).
 
-<p align="center"><img alt="GitHub Stats" src="https://static.ac93.uk/github-readme-stats.svg" /></p>
+<p align="center">
+<a href="https://ac93.uk/articles/creating-private-github-readme-stats-generator/" target="_blank">
+<img alt="GitHub Stats" src="https://static.ac93.uk/github-readme-stats.svg" />
+</a>
+</p>
 
 ### Overview
 
