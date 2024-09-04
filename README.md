@@ -31,6 +31,11 @@ You can see the repository for rationale and [notes on generation](https://githu
 ### Recently
 
 <!-- BLOG-POST-LIST:START -->
+[Private Github Readme Stats server and uploading to S3 with Ansible Semaphore](https://ac93.uk/articles/creating-private-github-readme-stats-generator/)
+> Containerise a private Github Readme Stats server and upload stats card image to S3 using an Ansible playbook on a schedule with Semaphore
+
+<sup>[`github-readme-stats`](https://ac93.uk/tags/github-readme-stats)</sup>&nbsp;<sup>[`docker`](https://ac93.uk/tags/docker)</sup>&nbsp;<sup>[`ansible`](https://ac93.uk/tags/ansible)</sup>&nbsp;<sup>[`semaphore`](https://ac93.uk/tags/semaphore)</sup>&nbsp;
+
 [Use git feature to &#39;hide&#39; local changes of a Dockerfile which installs xdebug](https://ac93.uk/articles/git-update-index-assume-unchanged-dockerfile-for-xdebug/)
 > Use git update-index --assume-unchanged to remove local changes of a Dockerfile from the staging area in a repository, and use &lpar;an ignored&rpar; docker-compose.override.yml to configure xdebug.
 
@@ -55,11 +60,6 @@ You can see the repository for rationale and [notes on generation](https://githu
 > Send a message template containing emoji from Twilio in Laravel.
 
 <sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`whatsapp`](https://ac93.uk/tags/whatsapp)</sup>&nbsp;<sup>[`twilio`](https://ac93.uk/tags/twilio)</sup>&nbsp;
-
-[Consume raw SQS messages from another application with Laravel&#39;s queue](https://ac93.uk/articles/laravel-consume-raw-sqs-messages-in-its-job-queue-system/)
-> Easily consume arbitrary raw AWS SQS messages produced by another application in your Laravel application&amp;rsquo;s queue with a Job and queue configuration.
-
-<sup>[`laravel`](https://ac93.uk/tags/laravel)</sup>&nbsp;<sup>[`aws`](https://ac93.uk/tags/aws)</sup>&nbsp;<sup>[`sqs`](https://ac93.uk/tags/sqs)</sup>&nbsp;
 <!-- BLOG-POST-LIST:END -->
 
 > [!TIP]
